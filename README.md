@@ -2,7 +2,7 @@
 
 A modern web-based resume editor with AI enhancement capabilities, built with React (Vite) frontend and FastAPI backend.
 
-![Resume Editor Screenshot](./screenshot.png)
+![Resume Editor Screenshot](./assets)
 
 ## Features
 
